@@ -22,7 +22,7 @@ An advanced indirect evaporative cooling technology based on the Maisotsenko Cyc
 ## 📸 CAD Models & Renders
 *(Upload your images to the repository and link them here)*
 
-![CAD Render](your-image-name.png)
+![CAD Render](project%20images.png)
 
 ---
 
